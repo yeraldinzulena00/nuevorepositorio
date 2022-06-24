@@ -21,15 +21,7 @@ de bajo nivel prescindiendo de Minix. En los primeros intentos, consiguió arran
 ejecutar dos procesos que mostraban la cadena de caracteres “AAAAABBBBB”. Uno lo utilizaría
 para leer desde el módem y escribir en la pantalla, mientras que el otro escribiría al módem y
 leería desde el teclado. Inicialmente, el programa arrancaba desde un disquete.
-La siguiente necesidad que tuvo fue la de poder descargar y subir archivos de su universidad, pero
-para implementar esta funcionalidad en el software emulador era necesario crear un controlador
-de disco. Así que después de un trabajo continuo y duro, creó un controlador compatible con el
-sistema de archivos de Minix. En ese momento, se percató de que estaba creando algo más que un
-simple emulador de terminal, así que, emprendió la tarea de crear un sistema operativo partiendo
-de cero.
-De forma privada, Linus nombraba Linux a su nuevo sistema, pero cuando decidió hacer una
-presentación pública pensó que era demasiado egocéntrico llamarlo así y propuso llamarlo Freax,
-aunque después se le siguió conociendo como Linux, práctica que perdura hasta ahora.
+
 
 
 Autoría y marca registrada
